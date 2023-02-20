@@ -1,0 +1,11 @@
+.footer {
+  margin: 0;
+  padding: 0 19px;
+  padding-top: 66px;
+  padding-bottom: 60px;
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 880px;
+  display: flex;
+  flex-direction: column;
+}
