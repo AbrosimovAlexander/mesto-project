@@ -20,4 +20,4 @@
     кнопки
     
 
-Ссылка проекта на GitHub: https://abrosimovalexander.github.io/mesto-project/
+Ссылка проекта на GitHub: https://abrosimovalexander.github.io/mesto-project/index.html
