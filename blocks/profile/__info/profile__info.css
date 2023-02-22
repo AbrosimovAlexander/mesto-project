@@ -15,10 +15,9 @@
   .profile__info {
     margin: 0;
     padding: 0;
-    padding-top: 26px;
+    padding-top: 29px;
     max-width: 282px;
     justify-content: center;
     align-items: center;
-    gap: 14px;
   }
 }
