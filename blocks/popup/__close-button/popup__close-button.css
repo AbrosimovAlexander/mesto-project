@@ -10,7 +10,7 @@
   background-size: 100%;
   background-repeat: no-repeat;
   border: 0px;
-  background-color: black;
+  background-color: transparent;
 }
 
 .popup__close-button:hover {
